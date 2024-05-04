@@ -1,6 +1,6 @@
 # :wave: Hola, Soy Daniel Galvan
 
-👨‍💻 Soy un Trainer, aprendiendo sobre programacion, ademas soy electricista, ¿te hecho un cable?<br>
+👨‍💻 Soy un Trainee, aprendiendo sobre programacion, ademas soy electricista, ¿te hecho un cable?<br>
 🌱 Trabajando en mi formacion para ser backend python<br>
 💬 Actualmente estudiando: Python y SQL<br>
 💌 Lenguaje Favorito: Pyhon<br>
