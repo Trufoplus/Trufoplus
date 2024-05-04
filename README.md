@@ -1,9 +1,9 @@
 # :wave: Hola, Soy Daniel Galvan
 
 👨‍💻 Soy un Trainee, aprendiendo sobre programacion, ademas soy electricista, ¿te hecho un cable?<br>
-🌱 Trabajando en mi formacion para ser backend python<br>
+🌱 Trabajando en mi formación para ser desarrollador backend en Python<br>
 💬 Actualmente estudiando: Python y SQL<br>
-💌 Lenguaje Favorito: Pyhon<br>
+💌 Lenguaje Favorito: Python<br>
 
 # 🖥️ Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
