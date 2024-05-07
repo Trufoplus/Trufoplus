@@ -1,20 +1,20 @@
-[![](https://visitcount.itsvg.in/api?id=Trufoplus&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--Contador de visitas-->
 <div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
+<p style="font-size: medium"><b>Contador de visitas</b></p>
   <img src="https://profile-counter.glitch.me/Trufoplus/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/muhammad-fiaz" target="_blank">
-    </a></div>
+</div>
 
+
+<!--Sobre mi-->
 <h2><b> 🙋‍♂️ Presentación </b></h2>
-
 
 👨‍💻 Soy un Trainee, aprendiendo sobre programacion, ademas soy electricista, ¿te hecho un cable?<br>
 🌱 Trabajando en mi formación para ser desarrollador backend en Python<br>
 💬 Actualmente estudiando: Python y SQL por mi cuenta online<br>
-🤔 Apasionado por las nuevas tecnologias, siempre aprendiendo y mejorando.
- 
- <br><br>
+🤔 Apasionado por las nuevas tecnologias, siempre aprendiendo y mejorando. 
+
+ <!--Mis habilidades-->
+<br><br>
 <h2><b> 👨‍💻 Habilidades  </b></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,7 +26,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
- <br><br>
+ <!--Mis Redes sociales-->
+<br><br>
 <h2><b> 🌐 Redes Sociales </b></h2>
 
 [	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/just.dhanny/) 
@@ -34,8 +35,11 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/OniricohStyle) 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dani_tenerife9@hotmail.com)
  
+ <!--Divisor horizontal-->
 <br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+ <!--Mis estadisticas de Github-->
 <div align="center">
   
 ![Trufoplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trufoplus&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/></b>
