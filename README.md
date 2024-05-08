@@ -13,6 +13,7 @@
 💬 Actualmente estudiando: Python y SQL por mi cuenta online<br>
 🤔 Apasionado por las nuevas tecnologias, siempre aprendiendo y mejorando. 
 
+
  <!--Mis habilidades-->
 <br><br>
 <h2><b> 👨‍💻 Habilidades  </b></h2>
@@ -26,6 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+
  <!--Mis Redes sociales-->
 <br><br>
 <h2><b> 🌐 Redes Sociales </b></h2>
@@ -35,9 +37,11 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/OniricohStyle) 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dani_tenerife9@hotmail.com)
  
+
  <!--Divisor horizontal-->
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
  <!--Mis estadisticas de Github-->
 <div align="center">
