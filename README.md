@@ -9,8 +9,8 @@
 <h2><b> 🙋‍♂️ Presentación </b></h2>
 
 👨‍💻 Soy un Trainee, aprendiendo sobre programacion, ademas soy electricista, ¿te hecho un cable?<br>
-🌱 Trabajando en mi formación para ser desarrollador backend en Python<br>
-💬 Actualmente estudiando: Python y SQL por mi cuenta online<br>
+🌱 Trabajando en mi formación para ser desarrollador backend<br>
+💬 Actualmente estudiando: Python y JavaScript por mi cuenta online<br>
 🤔 Apasionado por las nuevas tecnologias, siempre aprendiendo y mejorando. 
 
 
